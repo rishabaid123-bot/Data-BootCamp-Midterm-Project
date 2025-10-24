@@ -1,7 +1,6 @@
-Project Title: 
+Project Title: Earnings Call Language & Market Reaction
 
 
-Earnings Call Language & Market Reaction: 
 An Exploratory Analysis of Management Tone and Post-Announcement Stock Returns
 
 Executive Summary:
